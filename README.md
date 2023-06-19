@@ -1,12 +1,11 @@
 # Bitcoin-Analysis-
  [Bitcoin - Group 30] 
 
-[Bitcoin - Group 30]
 Group Members:
 
-Belin Gül
-Bükre Aleyna Kitapci
-Defne Akter
+Belin Gül | 
+Bükre Aleyna Kitapci |
+Defne Akter | 
 Mustafa Cem Büyükalpelli
 
 Introduction
